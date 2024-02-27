@@ -6,6 +6,7 @@ IP Network, IP Gateway 'convenzionale', IP Broadcast, quali e quanti ottetti per
 
 
 -   1.1.1.1/8
+        Class:A
         IP: 1.1.1.1                00000001.00000001.00000001.00000001
         CIDR: /8
         Netmask: 255.0.0.0	       11111111.00000000.00000000.00000000 
@@ -15,6 +16,7 @@ IP Network, IP Gateway 'convenzionale', IP Broadcast, quali e quanti ottetti per
 
 //////////////////////////////////////////////////////////////////////
 -   128.1.6.5/12
+        Class:B
         IP: 128.1.6.5               10000000.00000001.00000110.00000101
         CIDR: /12
         Netmask: 255.240.0.0	    11111111.11110000.00000000.00000000
@@ -24,6 +26,7 @@ IP Network, IP Gateway 'convenzionale', IP Broadcast, quali e quanti ottetti per
 
 ///////////////////////////////////////////////////////////////////////
 -   200.1.2.3/24
+        Class:C
         IP: 200.1.2.3               11001000.00000001.00000010.00000011
         CIDR: /24
         Netmask: 255.255.255.0	    11111111.11111111.11111111.00000000
@@ -33,6 +36,7 @@ IP Network, IP Gateway 'convenzionale', IP Broadcast, quali e quanti ottetti per
 
 ///////////////////////////////////////////////////////////////////////
 -   192.192.1.1/22
+        Class:C
         IP: 192.192.1.1             11000000.11000000.00000001.00000001
         CIDR: /22
         Netmask: 255.255.252.0	    11111111.11111111.11111100.00000000
@@ -42,6 +46,7 @@ IP Network, IP Gateway 'convenzionale', IP Broadcast, quali e quanti ottetti per
 
 ///////////////////////////////////////////////////////////////////////
 -   126.5.4.3/9
+        Class:A
         IP: 126.5.4.3               01111110.00000101.00000100.00000011
         CIDR: /9
         Netmask: 255.128.0.0	    11111111.10000000.00000000.00000000
@@ -51,6 +56,7 @@ IP Network, IP Gateway 'convenzionale', IP Broadcast, quali e quanti ottetti per
 
 ///////////////////////////////////////////////////////////////////////
 -   200.1.9.8/24
+        Class:C
         IP: 200.1.9.8              11001000.00000001.00001001.00001000 
         CIDR: /24
         Netmask: 255.255.255.0	   11111111.11111111.11111111.00000000
@@ -60,6 +66,7 @@ IP Network, IP Gateway 'convenzionale', IP Broadcast, quali e quanti ottetti per
 
 //////////////////////////////////////////////////////////////////////
 -   172.16.0.4/16
+        Class:B
         IP: 172.16.0.4             10101100.00010000.00000000.00000100
         CIDR: /16
         Netmask: 255.255.0.0	   11111111.11111111.00000000.00000000
